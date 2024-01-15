@@ -12,6 +12,7 @@
   "dependencies": {
     "@nextui-org/react": "^2.2.9",
     "autoprefixer": "^10.4.16",
+    "axios": "^1.6.5",
     "framer-motion": "^10.18.0",
     "postcss": "^8.4.33",
     "react": "^18.2.0",
